@@ -1,7 +1,7 @@
 JabeJa: Distributed Balanced Graph Partitioning
 
 Link to the paper: http://www.sics.se/~fatemeh/files/papers/jabeja.pdf
-=====
+
 
 The implementation of JabeJa on GraphChi consists of the following files:<br>
 1. JabeJa.java: the main algorithm of JabeJa.<br>
