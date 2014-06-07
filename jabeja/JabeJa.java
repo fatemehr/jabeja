@@ -27,7 +27,8 @@ import java.util.Random;
  * Iteratively computes a balanced partitioning of a given graph
  * by performing local operations at each vertex.
  * @author Fatemeh Rahimian
- */
+ * 
+*/
 public class JabeJa implements GraphChiProgram<Integer[], Integer[]> {
     private static Random rnd = new Random(4242);
     private static Logger logger = ChiLogger.getLogger("jabeja");
